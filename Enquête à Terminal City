@@ -1,0 +1,110 @@
+    1  PS C:\Users\Bascour Geoffrey> ls
+    2  PS C:\Users\Bascour Geoffrey> cd .\DownloadsPS C:\Users\Bascour Geoffrey\Downloads> ls
+    3  PS C:\Users\Bascour Geoffrey\Downloads\clmystery-master>  grep "CLUE" mystery/*
+    4  ls
+    5  cd .\Downloadsls
+    6  ls Download
+    7  ls Downloads
+    8  cat clmystery-master/
+    9  ls clmystery-master
+   10  ls clmystery-master/
+   11  cat clmystery 
+   12  cat clmystery/*
+   13  '/c/Users/Bascour Geoffrey/Downloads/clmystery-master'
+   14  grep "CLUE" mystery/*
+   15  grep "Instructions"
+   16  head "instructions"
+   17  cat "instructions"
+   18  grep "intructions"
+   19  head "instructions"
+   20  cat "instructions"
+   21  Get_Content "instructions"
+   22  cd cd Downloads
+   23  cd Downloads
+   24  ls clmystery-master
+   25  cd clmystery-master
+   26  grep "instructions"
+   27  cat "instructions"
+   28  grep "CLUE" mystery/*
+   29  grep "Annabel" mystery/*
+   30  cat hint
+   31  cat hint1
+   32  cat hint2
+   33  ls streets
+   34  cd streets
+   35  ls 
+   36  cd mystery/
+   37  ls 
+   38  cd streets
+   39  head -n 179 BUckingham_Place 
+   40  ls
+   41  cd ..
+   42  cd interviews
+   43  grep interview-699607
+   44  cat interview-699607
+   45  ls
+   46  cd..
+   47  cd ..
+   48  cd vehicles
+   49  grep "L337" * vehicles
+   50  grep -A 5 "L337ZR9
+   51   grep -A 5 "L337ZR9"
+   52  grep -A 5 "L337ZR9" *
+   53  grep -A 5 "L337P89" *
+   54  grep -A 5 "L337" *
+   55  grep "Blue"
+   56  grep "Blue" *
+   57  grep A -5 "L337" *
+   58  grep "Honda", "blue", "L337", "9" vehicles
+   59  grep "L337" vehicles
+   60  grep A- 5 "L337ZR9" * -r
+   61  cd ..
+   62  grep A- 5 "L337ZR9" * -r
+   63  grep A- 5 "L337ZR9" * 
+   64  ls
+   65  cd mystery
+   66  ls
+   67  grep A- 5 "L337ZR9" * 
+   68  grep A- 5 "L337ZR9" * -r
+   69  -A 5 "L337ZR9" *
+   70  grep -A 5 "L337ZR9" *
+   71  grep -A 5 "L337P89" *
+   72  grep -A 5 "L337GX9" *
+   73  grep -A 5 "L337QE9" *
+   74  grep -A 5 "L337GB9" *
+   75  grep -A 5 "L337OI9" *
+   76  grep -A 5 "L337X19" *
+   77  grep -A 5 "L337539" *
+   78  grep -A 5 "L3373U9" *
+   79  grep -A 5 "L337369" *
+   80  grep -A 5 "L337DV9" *
+   81  grep -A 5 "L3375A9" *
+   82  grep -A 5 "L337WR9" *
+   83  grep "Aron Pilhoper" interviews/
+   84  ls
+   85  grep "Aron Pilhofer" *
+   86  cd streets
+   87  head -n 145 Claybourne_Street
+   88  cd ..
+   89  cd interviews
+   90  cat interview-1767435
+   91  cd ..
+   92  cd streets
+   93  cd ..
+   94  grep "Joe Germuska" *
+   95  cd streets
+   96  head -n 275 Plainfield_Street
+   97  cd ..
+   98  cat interview-29741223
+   99  cd interviews
+  100  cat interview-29741223
+  101  cd ..
+  102  grep "Jeremy Bowers" *
+  103  cd streets
+  104  head -n 284 Dunstable_Road
+  105  cd ..
+  106  cd interviews
+  107  cat interview-9620713
+  108  echo Jeremy Bowers
+  109  cd ..
+  110  history > mon_history.log
