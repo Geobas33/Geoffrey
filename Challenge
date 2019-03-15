@@ -1,0 +1,3 @@
+touch bonjour.sh
+#!/bin/bash
+./bonjour.sh Jacques
