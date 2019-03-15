@@ -1,0 +1,22 @@
+
+Bascour Geoffrey@LAPTOP-AUMA8I6N MINGW64 ~ (master)
+$ ls
+'3D Objects'/         Documents/        'Mes documents'@         ntuser.dat{57f987da-e00c-11e8-ade2-b0fc36b7b76e}.TM.blf                                        Pictures/      "Voisinage d'impression"@
+ AppData/             Downloads/         MicrosoftEdgeBackups/   ntuser.dat{57f987da-e00c-11e8-ade2-b0fc36b7b76e}.TMContainer00000000000000000001.regtrans-ms   README.md      'Voisinage réseau'@
+'Application Data'@   Favorites/         Modèles@                ntuser.dat{57f987da-e00c-11e8-ade2-b0fc36b7b76e}.TMContainer00000000000000000002.regtrans-ms   Recent@         Wild.php/
+ bonjour.sh*          grep               Music/                  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf                                        Romain
+ cd                   Links/             nano.save               NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms  'Saved Games'/
+ Contacts/           'Local Settings'@   ntuser.dat              NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms   Searches/
+ Cookies@             ls                 ntuser.dat.log1         ntuser.ini                                                                                     SendTo@
+ Desktop/            'Menu Démarrer'@    ntuser.dat.log2         OneDrive/                                                                                      Videos/
+
+Bascour Geoffrey@LAPTOP-AUMA8I6N MINGW64 ~ (master)
+$ pwd
+/c/Users/Bascour Geoffrey
+
+Bascour Geoffrey@LAPTOP-AUMA8I6N MINGW64 ~ (master)
+$ cd
+
+Bascour Geoffrey@LAPTOP-AUMA8I6N MINGW64 ~ (master)
+$
+
