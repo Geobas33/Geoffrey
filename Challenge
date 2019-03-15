@@ -1,3 +1,5 @@
 touch bonjour.sh
 #!/bin/bash
 ./bonjour.sh Jacques
+ '/c/Users/Bascour Geoffrey/Documents/WCS/Wild.php'
+ ls
